@@ -1,0 +1,8 @@
+[32mINFO    [0m utilities.Logger:test_UserProfile.py:19 Opening test_UserRegistration_001
+[32mINFO    [0m utilities.Logger:test_UserProfile.py:22 Opening Browser
+[32mINFO    [0m utilities.Logger:test_UserProfile.py:28 Entering Name
+[32mINFO    [0m utilities.Logger:test_UserProfile.py:32 Entering EmailgCBA@gmail.com
+[32mINFO    [0m utilities.Logger:test_UserProfile.py:34 Entering Password
+[32mINFO    [0m utilities.Logger:test_UserProfile.py:37 Entering Confirm Password
+[32mINFO    [0m utilities.Logger:test_UserProfile.py:40 Clicking on Register button
+[32mINFO    [0m utilities.Logger:test_UserProfile.py:45 Test_UserRegistration_001 is Pass

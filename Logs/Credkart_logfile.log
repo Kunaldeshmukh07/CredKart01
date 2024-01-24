@@ -1,0 +1,32 @@
+2024-01-18 09:50:04,082 : INFO : utilities.Logger : test_UserRegistration_001 : Opening test_UserRegistration_001 
+2024-01-18 09:50:04,082 : INFO : utilities.Logger : test_UserRegistration_001 : Opening Browser 
+2024-01-18 09:50:04,678 : INFO : utilities.Logger : test_UserRegistration_001 : Entering Name 
+2024-01-18 09:50:04,863 : INFO : utilities.Logger : test_UserRegistration_001 : Entering EmailsUtQ@gmail.com 
+2024-01-18 09:50:04,863 : INFO : utilities.Logger : test_UserRegistration_001 : Entering Password 
+2024-01-18 09:50:04,959 : INFO : utilities.Logger : test_UserRegistration_001 : Entering Confirm Password 
+2024-01-18 09:50:05,113 : INFO : utilities.Logger : test_UserRegistration_001 : Clicking on Register button 
+2024-01-18 09:50:06,199 : INFO : utilities.Logger : test_UserRegistration_001 : Test_UserRegistration_001 is Pass 
+2024-01-18 10:03:43,205 : INFO : utilities.Logger : test_UserRegistration_001 : Opening test_UserRegistration_001 
+2024-01-18 10:03:43,208 : INFO : utilities.Logger : test_UserRegistration_001 : Opening Browser 
+2024-01-18 10:03:43,892 : INFO : utilities.Logger : test_UserRegistration_001 : Entering Name 
+2024-01-18 10:03:44,410 : INFO : utilities.Logger : test_UserRegistration_001 : Entering EmailwlgZ@ymail.com 
+2024-01-18 10:03:44,410 : INFO : utilities.Logger : test_UserRegistration_001 : Entering Password 
+2024-01-18 10:03:44,541 : INFO : utilities.Logger : test_UserRegistration_001 : Entering Confirm Password 
+2024-01-18 10:03:44,749 : INFO : utilities.Logger : test_UserRegistration_001 : Clicking on Register button 
+2024-01-18 10:03:45,643 : INFO : utilities.Logger : test_UserRegistration_001 : Test_UserRegistration_001 is Pass 
+2024-01-20 10:08:55,320 : INFO : utilities.Logger : test_UserRegistration_001 : Opening test_UserRegistration_001 
+2024-01-20 10:08:55,321 : INFO : utilities.Logger : test_UserRegistration_001 : Opening Browser 
+2024-01-20 10:08:56,340 : INFO : utilities.Logger : test_UserRegistration_001 : Entering Name 
+2024-01-20 10:08:56,463 : INFO : utilities.Logger : test_UserRegistration_001 : Entering EmailqTF8@ymail.com 
+2024-01-20 10:08:56,464 : INFO : utilities.Logger : test_UserRegistration_001 : Entering Password 
+2024-01-20 10:08:56,606 : INFO : utilities.Logger : test_UserRegistration_001 : Entering Confirm Password 
+2024-01-20 10:08:56,698 : INFO : utilities.Logger : test_UserRegistration_001 : Clicking on Register button 
+2024-01-20 10:08:57,559 : INFO : utilities.Logger : test_UserRegistration_001 : Test_UserRegistration_001 is Pass 
+2024-01-20 10:12:45,982 : INFO : utilities.Logger : test_UserRegistration_001 : Opening test_UserRegistration_001 
+2024-01-20 10:12:45,982 : INFO : utilities.Logger : test_UserRegistration_001 : Opening Browser 
+2024-01-20 10:12:46,693 : INFO : utilities.Logger : test_UserRegistration_001 : Entering Name 
+2024-01-20 10:12:46,877 : INFO : utilities.Logger : test_UserRegistration_001 : Entering EmailgCBA@gmail.com 
+2024-01-20 10:12:46,877 : INFO : utilities.Logger : test_UserRegistration_001 : Entering Password 
+2024-01-20 10:12:47,044 : INFO : utilities.Logger : test_UserRegistration_001 : Entering Confirm Password 
+2024-01-20 10:12:47,162 : INFO : utilities.Logger : test_UserRegistration_001 : Clicking on Register button 
+2024-01-20 10:12:48,107 : INFO : utilities.Logger : test_UserRegistration_001 : Test_UserRegistration_001 is Pass 
